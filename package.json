@@ -9,9 +9,6 @@
   "bugs": {
     "url": "https://github.com/20xr/eslint-config-20xr/issues"
   },
-  "devDependencies": {
-    "eslint": "^1.0.0",
-  },
   "homepage": "https://github.com/20xr/eslint-config-20xr",
   "keywords": [
     "20xr",
