@@ -37,6 +37,6 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/20xr/eslint-config-20r.git"
+    "url": "git://github.com/20xr/eslint-config-20xr.git"
   }
 }
